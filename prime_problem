@@ -8,5 +8,5 @@ count++
 if (count==2){
 console.log(N "is prime")
 }else {
-continue;
+console.log("Not a prime");
 }
