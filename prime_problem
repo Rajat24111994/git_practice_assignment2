@@ -1,7 +1,12 @@
  let num=N;
 for (let i=1; i<=N; i++){
  
-if (N%i==1){
+if (N%i==0){
 count++
 }
-console.log(prime)
+}
+if (count==2){
+console.log(N "is prime")
+}else {
+continue;
+}
